@@ -1,0 +1,18 @@
+google-cloud-documentai
+google-cloud-documentai-toolbox
+langchain
+langchain-google-genai
+langgraph
+matplotlib
+numpy
+OpenCC
+opencv-python
+pillow
+pydantic
+python-dotenv
+rich
+scipy
+tqdm
+
+# Upscaler
+# aura-sr
